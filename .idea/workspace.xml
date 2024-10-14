@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbdc2362-3d94-486f-aec8-46bbb7d7f184" name="Changes" comment="ex1-acas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex1/EX1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/EX1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/Parabola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/Parabola.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mexic1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mexic1/lab3.git",
+    "accountId": "bcdaa66d-1662-4382-b56d-de8c6d0dbc60"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 3
@@ -44,6 +58,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "F:/IS Anul 3/Semestrul 1/PJ/lab3/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728920075218</updated>
-      <workItem from="1728920076102" duration="3722000" />
+      <workItem from="1728920076102" duration="9076000" />
     </task>
     <task id="LOCAL-00001" summary="ex1-acas">
       <option name="closed" value="true" />
@@ -73,11 +88,38 @@
       <option name="project" value="LOCAL" />
       <updated>1728923704259</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ex1-acas">
+      <option name="closed" value="true" />
+      <created>1728923934946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728923934946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ex1-acas">
+      <option name="closed" value="true" />
+      <created>1728924057756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728924057756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex1-acas" />
