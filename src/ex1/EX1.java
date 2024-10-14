@@ -11,7 +11,7 @@ public class EX1 {
     public static void main(String[] args) throws FileNotFoundException {
 
         Scanner sc=new Scanner(new File("F:\\IS Anul 3\\Semestrul 1\\PJ\\lab3\\src\\ex1\\in.txt"));
-        List<Parabola> puncte=new ArrayList<Parabola>();
+        List<Parabola> puncte=new ArrayList<>();
 
         while(sc.hasNextInt()) {
             int a=sc.nextInt();
@@ -26,13 +26,6 @@ public class EX1 {
 
         }
 
-
-
-
-//        puncte.remove(0);
-//        System.out.println("Dupa stergerea primului element "+"lista contine punctele:");
-//        for (int i=0;i<puncte.size();i++)
-//            System.out.println(puncte.get(i));
 
     }
 }
