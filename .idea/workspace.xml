@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbdc2362-3d94-486f-aec8-46bbb7d7f184" name="Changes" comment="ex1-acas">
+      <change afterPath="$PROJECT_DIR$/src/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/Produs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex1/EX1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/EX1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex1/Parabola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/Parabola.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +26,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Mexic1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mexic1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Mexic1/lab3.git",
-    "accountId": "bcdaa66d-1662-4382-b56d-de8c6d0dbc60"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mexic1/lab3.git&quot;,
+    &quot;accountId&quot;: &quot;1fb9e57c-76a9-40de-99c3-a7e49d1855de&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2nQzQWMip4u17sDsHOKLFKhP4NA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.EX1.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -79,6 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1728920075218</updated>
       <workItem from="1728920076102" duration="9076000" />
+      <workItem from="1729152838108" duration="781000" />
+      <workItem from="1729174063742" duration="2375000" />
     </task>
     <task id="LOCAL-00001" summary="ex1-acas">
       <option name="closed" value="true" />

@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class EX1 {
     public static void main(String[] args) throws FileNotFoundException {
 
-        Scanner sc=new Scanner(new File("F:\\IS Anul 3\\Semestrul 1\\PJ\\lab3\\src\\ex1\\in.txt"));
+        Scanner sc=new Scanner(new File("C:\\Users\\cmora\\Desktop\\Faculta\\Anul3\\Sem1\\PJ\\lab3\\src\\ex1\\in.txt"));
         List<Parabola> puncte=new ArrayList<>();
 
         while(sc.hasNextInt()) {
