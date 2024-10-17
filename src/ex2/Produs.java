@@ -7,6 +7,7 @@ public class Produs {
     private double pret;
     private int cantitate;
     private LocalDate dataExpirare;
+    public static int vanzari=0;
 
     public Produs(String nume, double pret,int cantitate,LocalDate dataExpirare) {
         this.nume = nume;
@@ -31,6 +32,8 @@ public class Produs {
         return dataExpirare;
     }
 
+    public int getVanzari() {return vanzari;}
+
     public void setNume(String nume) {
         this.nume = nume;
     }
@@ -38,6 +41,9 @@ public class Produs {
     public void setPret(double pret) {
         this.pret = pret;
     }
+
+    public void setCantitate(int cantitate) {this.cantitate = cantitate;}
+
 
     @Override
     public String toString() {

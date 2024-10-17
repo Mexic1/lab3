@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbdc2362-3d94-486f-aec8-46bbb7d7f184" name="Changes" comment="ex1-acas">
-      <change afterPath="$PROJECT_DIR$/src/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex2/Produs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex2/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/out.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex1/EX1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/EX1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2/Produs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/Produs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Mexic1/lab3.git&quot;,
-    &quot;accountId&quot;: &quot;1fb9e57c-76a9-40de-99c3-a7e49d1855de&quot;
+    &quot;accountId&quot;: &quot;bcdaa66d-1662-4382-b56d-de8c6d0dbc60&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -82,8 +81,6 @@
       <option name="presentableId" value="Default" />
       <updated>1728920075218</updated>
       <workItem from="1728920076102" duration="9076000" />
-      <workItem from="1729152838108" duration="781000" />
-      <workItem from="1729174063742" duration="2375000" />
     </task>
     <task id="LOCAL-00001" summary="ex1-acas">
       <option name="closed" value="true" />
